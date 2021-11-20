@@ -8,7 +8,7 @@ After some serious self-reflection about my passions and interests, i began to r
 
 - 👋 Hi, I’m @olayinka04
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning SQL and Python for data science
+- 🌱 I’m currently learning Keras and tensorflow 2 for deep learning projects
 - 💞️ I’m looking to collaborate on Machine learning projects 
 - 💬 Ask me about tech and programming
 - 📫 How to reach me: https://www.linkedin.com/in/robiualiu/ or aliurobiu@outlook.com
