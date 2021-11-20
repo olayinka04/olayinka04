@@ -11,7 +11,7 @@ After some serious self-reflection about my passions and interests, i began to r
 - 🌱 I’m currently learning Keras and tensorflow 2 for deep learning projects
 - 💞️ I’m looking to collaborate on Machine learning projects 
 - 💬 Ask me about tech and programming
-- 📫 How to reach me: https://www.linkedin.com/in/robiualiu/ or aliurobiu@outlook.com
+- 📩 How to reach me [linkedin]: https://www.linkedin.com/in/robiualiu/ or aliurobiu@outlook.com
 
 Please, take a look at my projects👇
 <!---
