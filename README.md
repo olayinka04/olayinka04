@@ -5,6 +5,7 @@
 Senior Data Analyst | Predictive Modeling | Advanced Analytics | Fintech
 - I build data systems that drive measurable business performance.
 With 5+ years of experience across fintech, financial services, and operations, I specialize in predictive modeling, scalable data workflows, and translating complex business questions into structured analytical solutions.
+
 📍 Lagos, Nigeria
 📧 aliurobiuo@gmail.com
 🌐 Portfolio: https://robiu-aliu-04.netlify.app
