@@ -1,15 +1,23 @@
 ![data science](https://user-images.githubusercontent.com/78763866/141330470-176422a5-621f-435b-bebb-81ea1bf2a5ee.jpg)
 
 
-Hi there i'm Robiu Aliu 👋 Welcome to my profile!
-> My name is Robiu Aliu, a Nigeria data Analyst with a background in Agricultural Economics. I hold a Bachelor’s and Master’s degree in (Agricultural Economics, Kwara State University Malete).After graduating with a masters in Agricultural Economics from Kwara State University Malete and a year of National Youth Service Corps (NYSC), I developed passion for data analyst after the use of Econometrics method in my thesis research, which lead my interest to data analytics and science. Specifically, my Master’s Thesis with the heavy use of econometrics models spiked my interest towards data analytics After some serious self-reflection about my passions and interests, I began to research about how to become a data science, i found that there are great resources on Udemy, Cousera, EDX and many more Platforms on the internet, I began my journey with Udemy and YouTube, trouble shoot many problems through stack overflow, I always like to develop myself either following an (online) course, by developing a new application or just asking a coworker about his/her development.
+👋 Hi, I'm Robiu Aliu
+Senior Data Analyst | Predictive Modeling | Advanced Analytics | Fintech
+I build data systems that drive measurable business performance.
+With 5+ years of experience across fintech, financial services, and operations, I specialize in predictive modeling, scalable data workflows, and translating complex business questions into structured analytical solutions.
+📍 Lagos, Nigeria
+📧 aliurobiuo@gmail.com
+🌐 Portfolio: https://robiu-aliu-04.netlify.app
 
-- 👋 Hi, I’m @olayinka04
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Keras and tensorflow 2 for deep learning projects
-- 💞️ I’m looking to collaborate on Machine learning projects 
-- 💬 Ask me about tech and programming
-- 📩 How to reach me [linkedin]: https://www.linkedin.com/in/robiualiu/ or aliurobiu@outlook.com
+💼 Professional Summary
+Senior Data Analyst experienced in:
+- Designing predictive models (regression, classification, segmentation)
+- Building scalable SQL & Python analytics workflows
+- Forecasting customer behavior and credit risk
+- Automating ETL pipelines for production-ready datasets
+- Creating executive dashboards for KPI monitoring
+- Evaluating model drift and performance stability
+I focus on analytics that influences revenue, risk, growth, and operational efficiency.
 
 Please, take a look at my projects👇
 <!---
